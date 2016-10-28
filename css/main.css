@@ -30,3 +30,15 @@ li {
   border: 3px solid #333;
   border-radius: 10px;
 }
+
+a:hover {
+  background-color: #e6e6e6;
+}
+
+li:hover {
+  background-color: #e6e6e6;
+}
+
+.btn:hover {
+  background-color: #fff;
+}
